@@ -1,7 +1,7 @@
 # Guessing Game
 
 My 3rd project done in Bash, made to test my knowledge.
-You have 5 attempts, will you be able to hit the number!
+You have 5 attempts, will you be able to hit the number?
 ## Learnings
 
 improved my bash skills, learned how to use while and many other useful things
