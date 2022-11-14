@@ -1,9 +1,11 @@
+
 # Guessing Game
 
-My 3rd project done in Bash
+My 3rd project done in Bash, made to test my knowledge 
 
-<hr>
+## Learnings
 
-<h3> Final part </h3>
+improved my bash skills, learned how to use while and many other useful things
+## Demonstration
 
-![lang](https://user-images.githubusercontent.com/109036036/201555470-68e21d9f-b04e-4d16-9d76-5aa4ed0ea988.PNG)
+![l](https://user-images.githubusercontent.com/109036036/201557665-0bedb635-7baf-4a9d-9ac0-d2119d7dc15d.png)
